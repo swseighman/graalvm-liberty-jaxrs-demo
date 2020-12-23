@@ -1,0 +1,6 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      2   12/23/20 15:52:56:745 EST   12/23/20 15:52:59:351 EST java.lang.ArrayIndexOutOfBoundsException com.ibm.ws.webcontainer.servlet.ServletWrapper.init 181
+                                                                            - /home/sseighma/code/java/liberty/guide-rest-intro/start/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_20.12.23_15.52.56.0.log
+------+------+---------------------------+---------------------------+---------------------------
