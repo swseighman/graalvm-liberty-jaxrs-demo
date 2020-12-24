@@ -1,5 +1,6 @@
-##GraalVM Performance Comparison on Open Liberty
-###Benchmark JAX-RS Example on Open Liberty
+## GraalVM Performance Comparison on Open Liberty
+
+### Benchmark JAX-RS Example on Open Liberty
 
 Clone this repository:
 [https://github.com/swseighman/graalvm-liberty-jaxrs-demo.git
