@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archive>
-    <dir sourceOnDisk="/home/sseighma/code/java/liberty/guide-rest-intro/start/src/main/webapp" targetInArchive="/"/>
-    <dir sourceOnDisk="/home/sseighma/code/java/liberty/guide-rest-intro/start/target/classes" targetInArchive="/WEB-INF/classes"/>
-    <file sourceOnDisk="/home/sseighma/code/java/liberty/guide-rest-intro/start/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
-</archive>

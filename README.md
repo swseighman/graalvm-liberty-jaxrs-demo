@@ -67,7 +67,7 @@ Testing with 20,000,000 (20 million) iterations
 Time taken to complete in milliseconds: 19091 ; and result is: 3000000000
 real	0m19.106s
 user	0m0.004s
-sys		0m0.006s
+sys	0m0.006s
 ```
 Stop the application (CTRL-C) and change JDK 8 to the GraalVM version:
 
@@ -94,7 +94,7 @@ Testing with 20,000,000 (20 million) iterations
 Time taken to complete in milliseconds: 140 ; and result is: 3000000000
 real	0m0.151s
 user	0m0.003s
-sys		0m0.005s
+sys	0m0.005s
 ```
 As you can see, we realized significant imrpovement in performance by simply replacing the standard Hotspot VM with GraalVM.  Imagine the performance gains possible with a native image version of the application!
 
